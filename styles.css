@@ -1,0 +1,13 @@
+input:valid {
+    transition-duration: .2s;
+    transition-property: border;
+    border: solid 3px #26bcf3;
+    border-radius: 4px;
+  }
+  
+.valid {
+    transition-duration: .2s;
+    transition-property: border;
+    border: solid 3px #26bcf3;
+    border-radius: 4px;
+}
